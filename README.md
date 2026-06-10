@@ -8,20 +8,20 @@
 
 ---
 
-## ð§âð» About Me
+## Ã°ÂÂ§ÂÃ¢ÂÂÃ°ÂÂÂ» About Me
 
 I'm **Joshuva Prabhakar Palicharla**, a passionate **AI/ML Engineer** and recent grad who loves building intelligent systems that solve real-world problems.
 
-- ð¤ I build end-to-end ML pipelines, RAG systems, and LLM-powered applications
-- ð©ï¸ I'm experienced with cloud platforms like **AWS, Azure, and GCP**
-- ð I turn raw data into actionable insights using modern data tools
-- ð Always exploring the cutting edge of AI â from transformers to MLOps
+- Ã°ÂÂ¤Â I build end-to-end ML pipelines, RAG systems, and LLM-powered applications
+- Ã°ÂÂÂ©Ã¯Â¸Â I'm experienced with cloud platforms like **AWS, Azure, and GCP**
+- Ã°ÂÂÂ I turn raw data into actionable insights using modern data tools
+- Ã°ÂÂÂ Always exploring the cutting edge of AI Ã¢ÂÂ from transformers to MLOps
 
 ---
 
-## ð ï¸ Tech Stack
+## Ã°ÂÂÂ Ã¯Â¸Â Tech Stack
 
-### ð» Languages
+### Ã°ÂÂÂ» Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -29,7 +29,7 @@ I'm **Joshuva Prabhakar Palicharla**, a passionate **AI/ML Engineer** and recent
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### ð¤ AI / ML
+### Ã°ÂÂ¤Â AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -38,20 +38,20 @@ I'm **Joshuva Prabhakar Palicharla**, a passionate **AI/ML Engineer** and recent
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![MLOps](https://img.shields.io/badge/MLOps-0A66C2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-### âï¸ Cloud & Big Data
+### Ã¢ÂÂÃ¯Â¸Â Cloud & Big Data
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-### ðï¸ Databases
+### Ã°ÂÂÂÃ¯Â¸Â Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white)
 
-### ð§° Frameworks & Tools
+### Ã°ÂÂ§Â° Frameworks & Tools
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -61,7 +61,7 @@ I'm **Joshuva Prabhakar Palicharla**, a passionate **AI/ML Engineer** and recent
 
 ---
 
-## ð Connect With Me
+## Ã°ÂÂÂ Connect With Me
 
 <div align="center">
 
@@ -73,7 +73,7 @@ I'm **Joshuva Prabhakar Palicharla**, a passionate **AI/ML Engineer** and recent
 
 ---
 
-## ð GitHub Stats
+## Ã°ÂÂÂ GitHub Stats
 
 <div align="center">
 
@@ -90,23 +90,27 @@ I'm **Joshuva Prabhakar Palicharla**, a passionate **AI/ML Engineer** and recent
 
 ---
 
-## ð GitHub Trophies
+## 🏅 Certifications
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=JoshuvaPrabhakarP&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+[![Azure Data Engineer Associate](https://img.shields.io/badge/Azure%20Data%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/JoshuvaPrabhakar-4435/3673A74756FD65EE?sharingId=A763E97263BC0958)
+[![Azure Data Scientist Associate](https://img.shields.io/badge/Azure%20Data%20Scientist%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/JoshuvaPrabhakar-4435/B52656250C7BA420?sharingId=A763E97263BC0958)
+[![Azure Developer Associate](https://img.shields.io/badge/Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/JoshuvaPrabhakar-4435/2CE820ADF78435DD?sharingId=A763E97263BC0958)
+[![Azure AI Fundamentals](https://img.shields.io/badge/Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.credly.com/badges/4118ac45-62bd-4d5d-8802-17661d22295e/public_url)
+[![Databricks Fundamentals](https://img.shields.io/badge/Databricks%20Fundamentals-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/29e788d4-3ee6-48b6-acca-8e1d7a305c06)
+[![AWS Data Engineering](https://img.shields.io/badge/AWS%20Data%20Engineering-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/81a5eec8-172c-4b91-b091-254badc4a991/public_url)
 
 </div>
-
 ---
 
 <div align="center">
 
-### ð¤ Let's Connect & Build Something Amazing!
+### Ã°ÂÂ¤Â Let's Connect & Build Something Amazing!
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuva-prabhakar/)
 [![Portfolio](https://img.shields.io/badge/Check%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://joshuva-portfolio.vercel.app/)
 
-*"The best way to predict the future is to build it with AI."* ð
+*"The best way to predict the future is to build it with AI."* Ã°ÂÂÂ
 
 </div>
