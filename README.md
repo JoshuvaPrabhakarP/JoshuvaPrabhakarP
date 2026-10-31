@@ -76,16 +76,12 @@ I'm **Joshuva Prabhakar Palicharla**, a passionate **AI/ML Engineer** and recent
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=JoshuvaPrabhakarP&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=JoshuvaPrabhakarP&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuvaPrabhakarP&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="48%" />
-
 </div>
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuvaPrabhakarP&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" width="50%" />
-
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JoshuvaPrabhakarP&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" width="50%" />
 </div>
 
 ---
