@@ -8,14 +8,33 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I'm **Joshuva Prabhakar Palicharla**, a passionate **AI/ML Engineer** and recent grad who loves building intelligent systems that solve real-world problems.
+I'm Joshuva Prabhakar Palicharla, a Software Engineer with an MS in Computer Science from Stevens Institute of Technology (May 2026). I build backend services, data pipelines, and AI applications that turn complex problems into practical software.
 
-- 🤖 I build end-to-end ML pipelines, RAG systems, and LLM-powered applications
-- 🌩️ I'm experienced with cloud platforms like **AWS, Azure, and GCP**
-- 📊 I turn raw data into actionable insights using modern data tools
-- 🚀 Always exploring the cutting edge of AI — from transformers to MLOps
+```python
+class Joshuva:
+    role      = "Software Engineer"
+    education = "MS Computer Science, Stevens Institute of Technology"
+    focus     = ["Backend & APIs", "Data Engineering", "Applied AI"]
+    stack     = ["Python", "FastAPI", "SQL", "Spark", "Docker", "AWS | Azure | GCP"]
+    results   = {"classification_accuracy": "94%", "r2": 87.38, "data_prep_time": "-30%"}
+    open_to   = ["Software Engineer", "Backend", "Data Engineer", "Applied AI", "Data Analyst"]
+
+    def ship(self):
+        return "design -> implement -> test -> debug -> deploy"
+```
+
+| Area | What I do |
+|---|---|
+| **Backend & APIs** | Build applications and REST APIs with Python, FastAPI, and SQL, backed by automated testing and code reviews |
+| **Generative & Agentic AI** | Develop LLM applications, RAG pipelines, and LangGraph agent workflows with tool calling, structured outputs, and evidence validation |
+| **Search & Retrieval** | Combine vector search, embeddings, FAISS, BM25, hybrid retrieval, and cross-encoder reranking to improve document search |
+| **Cloud & DevOps** | Package, test, and deploy with Docker, Git, GitHub Actions, and CI/CD across AWS, Azure, and GCP |
+| **Data Engineering** | Build ETL pipelines with Spark, Databricks, and SQL, including project work processing 15M+ records |
+| **Analytics & ML** | Apply machine learning, Power BI, and Tableau to find patterns and communicate insights |
+
+Open to Software Engineering, Backend, Data Engineering, and Applied AI roles, as well as Data Analyst roles.
 
 ---
 
@@ -105,7 +124,7 @@ I'm **Joshuva Prabhakar Palicharla**, a passionate **AI/ML Engineer** and recent
 
 ### 🤝 Let's Connect & Build Something Amazing!
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0d1f35?style=for-the-badge&logo=linkedin&logoColor=7ab0d4)](https://www.linkedin.com/in/joshuva-prabhakar/)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0d1f35?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzdhYjBkNCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&logoColor=7ab0d4)](https://www.linkedin.com/in/joshuva-prabhakar/)
 [![Portfolio](https://img.shields.io/badge/Check%20My%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=8ba7c7)](https://joshuva-portfolio.vercel.app/)
 
 *"The best way to predict the future is to build it with AI."* 🚀
