@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoshuvaPrabhakarP&label=Profile%20Views&color=1a1f2e&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=JoshuvaPrabhakarP&label=Profile%20Views&color=1a1f2e&style=flat" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Crimson+Pro&weight=600&size=32&duration=3000&pause=1000&color=8BA7C7&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Joshuva+%F0%9F%91%8B;AI+%2F+ML+Engineer;Building+Intelligent+Systems;Turning+Data+into+Decisions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Crimson+Pro&weight=600&size=26&duration=3000&pause=1500&color=8BA7C7&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Joshuva+%F0%9F%91%8B;I'm+a+Software+Engineer,+MS+CS+@+Stevens+%7C+Open+to+Work;My+Toolkit:+Python+%C2%B7+Cloud+%C2%B7+Data+%C2%B7+GenAI;Focused+on+Scalable+Pipelines+%C2%B7+Backend+APIs+%C2%B7+RAG+Apps" alt="Typing SVG" />
 </div>
 
 ---
