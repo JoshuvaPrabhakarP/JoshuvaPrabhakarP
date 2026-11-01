@@ -131,7 +131,7 @@ Open to Software Engineering, Backend, Data Engineering, and Applied AI roles, a
 </div>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JoshuvaPrabhakarP&layout=compact&bg_color=0B132B&title_color=6EE7B7&text_color=CBD5E1&hide_border=true&langs_count=8&card_width=300" alt="Top Languages" width="375" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JoshuvaPrabhakarP&layout=compact&bg_color=0B132B&title_color=6EE7B7&text_color=CBD5E1&hide_border=true&langs_count=8&card_width=300" alt="Top Languages" width="345" />
 </div>
 
 ---
@@ -140,12 +140,31 @@ Open to Software Engineering, Backend, Data Engineering, and Applied AI roles, a
 
 <div align="center">
 
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/JoshuvaPrabhakar-4435/3673A74756FD65EE?sharingId=A763E97263BC0958"><img src="https://raw.githubusercontent.com/JoshuvaPrabhakarP/JoshuvaPrabhakarP/main/assets/certs/azure-associate.png" width="205" alt="Microsoft Certified: Azure Data Engineer, Data Scientist, and Developer Associate" /></a>
-  <a href="https://www.credly.com/badges/4118ac45-62bd-4d5d-8802-17661d22295e/public_url"><img src="https://raw.githubusercontent.com/JoshuvaPrabhakarP/JoshuvaPrabhakarP/main/assets/certs/azure-ai-fundamentals.png" width="205" alt="Microsoft Certified: Azure AI Fundamentals" /></a>
-  <a href="https://credentials.databricks.com/29e788d4-3ee6-48b6-acca-8e1d7a305c06"><img src="https://raw.githubusercontent.com/JoshuvaPrabhakarP/JoshuvaPrabhakarP/main/assets/certs/databricks-fundamentals.png" width="205" alt="Academy Accreditation: Databricks Fundamentals" /></a>
-  <a href="https://www.credly.com/badges/81a5eec8-172c-4b91-b091-254badc4a991/public_url"><img src="https://raw.githubusercontent.com/JoshuvaPrabhakarP/JoshuvaPrabhakarP/main/assets/certs/aws-data-engineering.png" width="205" alt="AWS Academy Graduate: Data Engineering, Training Badge" /></a>
-
-<sub>Verify: [Azure Data Engineer](https://learn.microsoft.com/api/credentials/share/en-us/JoshuvaPrabhakar-4435/3673A74756FD65EE?sharingId=A763E97263BC0958) · [Azure Data Scientist](https://learn.microsoft.com/api/credentials/share/en-us/JoshuvaPrabhakar-4435/B52656250C7BA420?sharingId=A763E97263BC0958) · [Azure Developer](https://learn.microsoft.com/api/credentials/share/en-us/JoshuvaPrabhakar-4435/2CE820ADF78435DD?sharingId=A763E97263BC0958) · [Azure AI Fundamentals](https://www.credly.com/badges/4118ac45-62bd-4d5d-8802-17661d22295e/public_url) · [Databricks Fundamentals](https://credentials.databricks.com/29e788d4-3ee6-48b6-acca-8e1d7a305c06) · [AWS Data Engineering](https://www.credly.com/badges/81a5eec8-172c-4b91-b091-254badc4a991/public_url)</sub>
+<table>
+<tr>
+<td align="center" valign="top">
+<details>
+<summary>
+<img src="https://raw.githubusercontent.com/JoshuvaPrabhakarP/JoshuvaPrabhakarP/main/assets/certs/azure-associate.png" width="185" alt="Microsoft Certified: Azure Data Engineer, Data Scientist, and Developer Associate" /><br>
+<sub>Click to choose a credential</sub>
+</summary>
+<br>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/JoshuvaPrabhakar-4435/3673A74756FD65EE?sharingId=A763E97263BC0958">Azure Data Engineer Associate &rarr;</a><br>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/JoshuvaPrabhakar-4435/B52656250C7BA420?sharingId=A763E97263BC0958">Azure Data Scientist Associate &rarr;</a><br>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/JoshuvaPrabhakar-4435/2CE820ADF78435DD?sharingId=A763E97263BC0958">Azure Developer Associate &rarr;</a>
+</details>
+</td>
+<td align="center" valign="top">
+<a href="https://www.credly.com/badges/4118ac45-62bd-4d5d-8802-17661d22295e/public_url"><img src="https://raw.githubusercontent.com/JoshuvaPrabhakarP/JoshuvaPrabhakarP/main/assets/certs/azure-ai-fundamentals.png" width="185" alt="Microsoft Certified: Azure AI Fundamentals" /></a>
+</td>
+<td align="center" valign="top">
+<a href="https://credentials.databricks.com/29e788d4-3ee6-48b6-acca-8e1d7a305c06"><img src="https://raw.githubusercontent.com/JoshuvaPrabhakarP/JoshuvaPrabhakarP/main/assets/certs/databricks-fundamentals.png" width="185" alt="Academy Accreditation: Databricks Fundamentals" /></a>
+</td>
+<td align="center" valign="top">
+<a href="https://www.credly.com/badges/81a5eec8-172c-4b91-b091-254badc4a991/public_url"><img src="https://raw.githubusercontent.com/JoshuvaPrabhakarP/JoshuvaPrabhakarP/main/assets/certs/aws-data-engineering.png" width="185" alt="AWS Academy Graduate: Data Engineering, Training Badge" /></a>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -155,8 +174,8 @@ Open to Software Engineering, Backend, Data Engineering, and Applied AI roles, a
 
 ### Let's Connect & Build Something Amazing!
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0d1f35?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzdhYjBkNCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&logoColor=7ab0d4)](https://www.linkedin.com/in/joshuva-prabhakar/)
-[![Portfolio](https://img.shields.io/badge/Check%20My%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=8ba7c7)](https://joshuva-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-1E1B4B?style=for-the-badge&labelColor=1E1B4B&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzViYzBiZSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&logoColor=5bc0be)](https://www.linkedin.com/in/joshuva-prabhakar/)
+[![Portfolio](https://img.shields.io/badge/Check%20My%20Portfolio-1E1B4B?style=for-the-badge&labelColor=1E1B4B&logo=vercel&logoColor=5bc0be)](https://joshuva-portfolio.vercel.app/)
 
 *"The best way to predict the future is to build it with AI."*
 
