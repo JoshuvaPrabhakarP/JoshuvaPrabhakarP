@@ -126,12 +126,12 @@ Open to Software Engineering, Backend, Data Engineering, and Applied AI roles, a
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=JoshuvaPrabhakarP&show_icons=true&bg_color=0B132B&title_color=6EE7B7&text_color=CBD5E1&icon_color=10B981&ring_color=10B981&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuvaPrabhakarP&background=0B132B&ring=10B981&fire=10B981&currStreakNum=6EE7B7&sideNums=6EE7B7&currStreakLabel=6EE7B7&sideLabels=CBD5E1&dates=CBD5E1&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=JoshuvaPrabhakarP&show_icons=true&bg_color=0B132B&title_color=6EE7B7&text_color=CBD5E1&icon_color=10B981&ring_color=10B981&card_width=495&hide_border=true" alt="GitHub Stats" width="400" height="158" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuvaPrabhakarP&background=0B132B&ring=10B981&fire=10B981&currStreakNum=6EE7B7&sideNums=6EE7B7&currStreakLabel=6EE7B7&sideLabels=CBD5E1&dates=CBD5E1&hide_border=true" alt="GitHub Streak" width="400" height="158" />
 </div>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JoshuvaPrabhakarP&layout=compact&bg_color=0B132B&title_color=6EE7B7&text_color=CBD5E1&hide_border=true&langs_count=8&card_width=300" alt="Top Languages" width="345" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JoshuvaPrabhakarP&layout=compact&bg_color=0B132B&title_color=6EE7B7&text_color=CBD5E1&hide_border=true&langs_count=8&card_width=495" alt="Top Languages" width="400" height="158" />
 </div>
 
 ---
